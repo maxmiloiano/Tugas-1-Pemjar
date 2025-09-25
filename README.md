@@ -26,12 +26,11 @@ Buat folder proyek:
 
 mkdir mini-quiz && cd mini-quiz
 
-Inisialisasi Modul Go
+Inisialisasi Modul Go:
 
 
 go mod init mini-quiz
 
-Jalankan Aplikasi
-
+Jalankan Aplikasi:
 
 go run .
