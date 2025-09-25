@@ -2,8 +2,14 @@ Mini-Quiz App ( Go )
 
 
 Fitur-fitur:
+
+
 Pertanyaan Random
+
+
 Terdapat High Score dan disimpan dalam bentuk txt
+
+
 Terdapat kategori tingkat kesulitan
 Terdapat timer untuk setiap pertanyaan
 Simpan Riwayat skor dengan menambahkan nama Pemain
