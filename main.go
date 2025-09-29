@@ -16,7 +16,7 @@ func main() {
     nameInput, _ := reader.ReadString('\n')
     playerName := strings.TrimSpace(nameInput)
 
-    // Daftar pertanyaan (bisa diperbanyak lagi)
+    
     questions := []models.Question{
         {Text: "Siapa penemu bahasa Go?", Choices: []string{"Ken Thompson & Rob Pike", "Guido van Rossum", "James Gosling", "Bjarne Stroustrup"}, Answer: 1, Category: "Teknologi", Difficulty: "Sedang"},
         {Text: "Tahun berapa Go dirilis pertama kali?", Choices: []string{"2007", "2009", "2012", "2015"}, Answer: 2, Category: "Teknologi", Difficulty: "Mudah"},
